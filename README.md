@@ -1,1 +1,1 @@
-# SHOWING-CAR-AGES-AND-THEIR-SPEED-IN-TRAFFIC
+This program is build to show car ages and their speed in traffic according to the data. The scatter plot shows different object with different colors and sizes propotional to their speed the in y axis. In conclusion, technologies used are Python programming language, and its libraries such as pandas, numpy, seaborn and matplotlib on jupyternotebook
